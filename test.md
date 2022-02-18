@@ -37,42 +37,42 @@
           "@type": "HowToStep",
           "name": "Preheat",
           "text": "Preheat the oven to 350 degrees F. Grease and flour a 9x9 inch pan.",
-          "url": "https://thetedmunds.github.io/recipes/test#step1",
+          "url": "https://thetedmunds.github.io/recipes/test.html#step1",
           "image": "https://thetedmunds.github.io/recipes/assets/1.png"
         },
         {
           "@type": "HowToStep",
           "name": "Mix dry ingredients",
           "text": "In a large bowl, combine flour, sugar, baking powder, and salt.",
-          "url": "https://thetedmunds.github.io/recipes/test#step2",
+          "url": "https://thetedmunds.github.io/recipes/test.html#step2",
           "image": "https://thetedmunds.github.io/recipes/assets/1.png"
         },
         {
           "@type": "HowToStep",
           "name": "Add wet ingredients",
           "text": "Mix in the butter, eggs, and milk.",
-          "url": "https://thetedmunds.github.io/recipes/test#step3",
+          "url": "https://thetedmunds.github.io/recipes/test.html#step3",
           "image": "https://thetedmunds.github.io/recipes/assets/1.png"
         },
         {
           "@type": "HowToStep",
           "name": "Spread into pan",
           "text": "Spread into the prepared pan.",
-          "url": "https://thetedmunds.github.io/recipes/test#step4",
+          "url": "https://thetedmunds.github.io/recipes/test.html#step4",
           "image": "https://thetedmunds.github.io/recipes/assets/1.png"
         },
         {
           "@type": "HowToStep",
           "name": "Bake",
           "text": "Bake for 30 to 35 minutes, or until firm.",
-          "url": "https://thetedmunds.github.io/recipes/test#step5",
+          "url": "https://thetedmunds.github.io/recipes/test.html#step5",
           "image": "https://thetedmunds.github.io/recipes/assets/1.png"
         },
         {
           "@type": "HowToStep",
           "name": "Enjoy",
           "text": "Allow to cool and enjoy.",
-          "url": "https://thetedmunds.github.io/recipes/test#step6",
+          "url": "https://thetedmunds.github.io/recipes/test.html#step6",
           "image": "https://thetedmunds.github.io/recipes/assets/1.png"
         }
       ],
@@ -86,9 +86,9 @@
 
 ## This is a test recipe.  It has 6 steps
 
-###<a name="step1"></a>This is step 1
-###<a name="step2"></a>This is step 2
-###<a name="step3"></a>This is step 3
-###<a name="step4"></a>This is step 4
-###<a name="step5"></a>This is step 5
-###<a name="step6"></a>This is step 6
+### <a name="step1"></a>This is step 1
+### <a name="step2"></a>This is step 2
+### <a name="step3"></a>This is step 3
+### <a name="step4"></a>This is step 4
+### <a name="step5"></a>This is step 5
+### <a name="step6"></a>This is step 6
